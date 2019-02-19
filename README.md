@@ -1,4 +1,4 @@
-# Golang REST HEEP
+# Golang REST
 A booster demonstrating rest http and recovery using the kubernetes/openshift liveliness and readiness probes.
 
 ## How to run
